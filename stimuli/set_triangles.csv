@@ -1,0 +1,15 @@
+stimulusType;stimulusValue;stimulusValueType
+triangle;Red_Triangle.png;image
+triangle;Violet_Triangle.png;image
+triangle;Light_Blue_Triangle.png;image
+triangle;Blue_Triangle.png;image
+triangle;Yellow_Triangle.png;image
+probe;Probe.png;image
+probe;Probe_Circle.png;image
+triangle;Green_Triangle.png;image
+select;Blue.png;image
+select;Green.png;image
+select;Purple.png;image
+select;Yellow.png;image
+select;Light_Blue.png;image
+select;Red.png;image

@@ -1,0 +1,169 @@
+.encodingGrid,
+.encodingGridStatic {
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+
+/* CSS classes for different rotation angles */
+.rotate-0 {
+  transform: rotate(0deg);
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+
+.rotate-45 {
+  transform: rotate(45deg);
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+
+.rotate-90 {
+  transform: rotate(90deg);
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+
+.rotate-135 {
+  transform: rotate(135deg);
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+.rotate-225 {
+  transform: rotate(225deg);
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+.rotate-270 {
+  transform: rotate(270deg);
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+.rotate-315 {
+  transform: rotate(315deg);
+  background-color: transparent;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+  left: 20%;
+  border: 0px;
+  padding: 25px;
+  outline: 1px solid #999;
+  height: 50px;
+  width: 40px;
+}
+
+.colorCell1 {
+  display: table-cell;
+  font-size: x-small;
+  background-color: rgba(237, 12, 12, 1);
+  color: rgba(237, 12, 12, 1);
+  left: 15%;
+}
+
+.colorCell2 {
+  display: table-cell;
+  font-size: x-small;
+  background-color: rgba(8, 25, 181, 1);
+  color: rgba(8, 25, 181, 1);
+  left: 15%;
+}
+
+.colorCell3 {
+  display: table-cell;
+  font-size: x-small;
+  background-color: rgba(255, 230, 1, 1);
+  color: rgba(255, 230, 1, 1);
+  left: 15%;
+}
+
+.colorCell4 {
+  display: table-cell;
+  font-size: x-small;
+  color: rgba(127, 0, 226, 1);
+  background-color: rgba(127, 0, 226, 1);
+  left: 15%;
+}
+.colorCell5 {
+  display: table-cell;
+  font-size: x-small;
+  color: rgba(9, 200, 51, 1);
+  background-color: rgba(9, 200, 51, 1);
+  left: 15%;
+}
+.colorCell6 {
+  display: table-cell;
+  font-size: xx-small;
+  color: rgba(15, 229, 229, 1);
+  background-color: rgba(15, 229, 229, 1);
+  left: 15%;
+}

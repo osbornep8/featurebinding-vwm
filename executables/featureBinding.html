@@ -1,0 +1,42 @@
+<tatool>
+  <!-- <script>
+    /* Get the documentElement (<html>) to display the page in fullscreen */
+    var elem = document.documentElement;
+
+    /* View in fullscreen */
+    function openFullscreen() {
+      if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+      } else if (elem.mozRequestFullScreen) {
+        /* Firefox */
+        elem.mozRequestFullScreen();
+      } else if (elem.webkitRequestFullscreen) {
+        /* Chrome, Safari and Opera */
+        elem.webkitRequestFullscreen();
+      } else if (elem.msRequestFullscreen) {
+        /* IE/Edge */
+        elem.msRequestFullscreen();
+      }
+    }
+  </script> -->
+  <tatool-grid
+    cellClass="encodingGrid"
+    service="mainGridService"
+    gridSpacing="40"
+    cellWidth="40"
+    cellHeight="50"
+    hideEmptyCells="no"
+    allowDrag="no"
+    allowDrop="no"
+  ></tatool-grid>
+  <tatool-grid
+    cellClass="colorGrid"
+    service="colorGridService"
+    gridSpacing="30"
+    cellWidth="100"
+    cellHeight="80"
+    gridClick="userClick(cell,timing,$event)"
+    allowDrag="no"
+    allowDrop="no"
+  ></tatool-grid>
+</tatool>
